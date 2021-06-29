@@ -1,5 +1,5 @@
 ### Hi, Rajul Here 👋
-[![Rajul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajulmahto21&theme=react-dark)](https://github.com/Rajulmahto21/github-readme-activity-graph)
+[![Rajul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajulmahto21&theme=cotton candy)](https://github.com/Rajulmahto21/github-readme-activity-graph)
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajulmahto21&theme=jolly&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajulmahto21&theme=jolly&show_icons=true" />
