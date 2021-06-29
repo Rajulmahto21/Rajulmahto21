@@ -8,8 +8,10 @@
 <a href="https://www.linkedin.com/in/rajul-mahto-313463200/" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+<div>  
 [![Rajul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajulmahto21)](https://github.com/Rajulmahto21/github-readme-activity-graph)
 <div align="center">
+</div>
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Rajulmahto21&theme=jolly&show_icons=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajulmahto21&theme=jolly&show_icons=true" />
 </div>
