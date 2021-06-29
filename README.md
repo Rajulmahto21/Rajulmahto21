@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi, Rajul Here 👋
 [![Rajul's github activity graph](https://activity-graph.herokuapp.com/graph?username=Rajulmahto21&theme=react-dark)](https://github.com/Rajulmahto21/github-readme-activity-graph)
-
+<h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Rajulmahto21/count.svg" alt="Visitor Count" /></h2>
 
 <!--
 **Rajulmahto21/Rajulmahto21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
