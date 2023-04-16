@@ -13,6 +13,20 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Rajulmahto21&theme=jolly&show_icons=true" />
 </div>
 <h2 align="center">Visitor's Count <img align="center" src="https://profile-counter.glitch.me/Rajulmahto21/count.svg" alt="Visitor Count" /></h2>
+<h2 align="center">Education 🏫</h2>
+<p><strong>VIT Bhopal University </strong><br>
+Bhopal, Madhya Pradesh<br>
+BTech	Expected May 2025<br>
+Major in Computer Science and Engineering Core<br>
+<b>CGPA: 9.13/10</b></p>
+<p><strong>12th Standard</strong><br>
+<b>St. Gabriel’s Sr. Sec School, Ranjhi</b><br>
+Jabalpur, Madhya Pradesh<br>
+CBSE	<b>Percentage: 93%</b>	 July 2021</p>
+<p><strong>10th Standard</strong><br>
+<b>St. Gabriel’s Sr. Sec School, Ranjhi</b><br>
+Jabalpur, Madhya Pradesh<br>
+CBSE	<b>Percentage: 95.6%</b>	 May 2019</p>
 <h2 align="center">Projects 🧑‍🎓</h2>
 <p><strong><h3>Cancer Classification Model (<a href="https://drive.google.com/drive/folders/1vwHMWX5Fs1Lb1fEgJ_GO90H0H18kB5P_">Link</a>)</h3></strong><b> - Ongoing 2022</b><br>
 ● This is an ongoing project in which an RNA-seq file is converted to feature map using various transcriptomics tools.<br>
@@ -52,6 +66,21 @@ Olympiad Rank: 625<br>
 <h2 align="center">Awards 🏆</h2>
 <p>• Awarded certificate of merit for being among the top 0.1% of successful candidates in Social Science (All India Secondary Examination conducted by CBSE 2019). (<a href="https://drive.google.com/file/d/1FRJ5OBAD2YfxWrWoO3eWPcoU4FSpuFqY/view"> Certificate Link</a>)</p>
 <p>• Received cash prize of Rs. 2,000/- and Certificate of Achievement awarded for outstanding performance in academics by securing the highest percentage in Social Science (100%) and Foundation of Information Technology (100%) in the All-India Secondary School Examination 2019 conducted by CBSE.</p>
+<h2 align="center">Technical Skills and Languages 👯‍♂️</h2>
+<h3>Technical Skills 🧑‍💻</h3>
+<ul>
+  <li>Python</li>
+  <li>C++</li>
+  <li>Java</li>
+  <li>SQL</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+</ul>
+<h3>Languages 🎨</h3>
+<ul>
+  <li>Native proficiency in Hindi and English</li>
+  <li>Elementary proficiency in German and Russian</li>
+</ul>
 <!--
 **Rajulmahto21/Rajulmahto21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
